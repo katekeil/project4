@@ -9,7 +9,7 @@ import java.util.Collections;
 import java.util.Scanner;
 import java.util.ArrayList;
 import java.util.Iterator;
-/* Rylee Charlton, 04/04/2019, Project 4
+/* Kate Keil, 05/01/2019, Project 4
  */
 
 public class Main {
